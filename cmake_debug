@@ -1,0 +1,8 @@
+#!/bin/bash
+echo "==========================="
+echo "MariaDB Cmake Build - DEBUG"
+echo "==========================="
+
+cmake -DCMAKE_INSTALL_PREFIX=/usr/local/server/tledger -DDEFAULT_CHARSET=utf8 -DDEFAULT_COLLATION=utf8_general_ci -DWITH_EXTRA_CHARSETS=all -DMYSQL_DATADIR=/home/tledger/data -DENABLED_LOCAL_INFILE=1 -DWITH_INNOBASE_STORAGE_ENGINE=1 -DCMAKE_BUILD_TYPE=Debug
+
+

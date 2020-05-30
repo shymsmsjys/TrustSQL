@@ -1,0 +1,3 @@
+/usr/local/server/tledger/mysql-test/include/default_client.cnf
+/home/tledger/eclipse-workspace/backup/mysql-test/include/default_client.cnf
+/home/tledger/eclipse-workspace/mariadb-10.3.11/mysql-test/include/default_client.cnf
