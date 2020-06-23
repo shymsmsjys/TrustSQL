@@ -36,7 +36,7 @@ TrustDB inc, is a distributed ledger technology company in South, Korea.
 Help:
 -----
 If you need any help please send me an e-mail.
-booltaing@hanmail.net
+booltaking@hanmail.net
 
 
 License:
